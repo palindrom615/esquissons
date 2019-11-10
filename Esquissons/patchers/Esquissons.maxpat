@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 42.0, 81.0, 1406.0, 931.0 ],
+		"rect" : [ 2155.0, 96.0, 1406.0, 931.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -983,7 +983,7 @@
 					"patching_rect" : [ 1908.622700296416951, 157.500215792251595, 209.0, 23.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 84.331237999999999, 626.666625999999951, 658.956237999999985, 23.0 ],
-					"text" : "signal",
+					"text" : "No Source",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -1010,7 +1010,7 @@
 					"patching_rect" : [ 1666.438383614410213, 171.627875351501473, 209.0, 23.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 84.331237999999999, 601.666625999999951, 658.956237999999985, 23.0 ],
-					"text" : "signal",
+					"text" : "No Source",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -1037,7 +1037,7 @@
 					"patching_rect" : [ 1415.516559780654916, 171.627875351501473, 209.0, 23.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 84.331237999999999, 576.666625999999951, 658.956237999999985, 23.0 ],
-					"text" : "signal",
+					"text" : "No Source",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -1064,7 +1064,7 @@
 					"patching_rect" : [ 1169.005797755516141, 175.627875351501473, 209.0, 23.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 84.331237999999999, 551.666625999999951, 658.956237999999985, 23.0 ],
-					"text" : "signal",
+					"text" : "No Source",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -1091,7 +1091,7 @@
 					"patching_rect" : [ 937.00579441765592, 177.29454197843171, 209.0, 23.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 84.331237999999999, 526.666625999999951, 658.956237999999985, 23.0 ],
-					"text" : "signal",
+					"text" : "No Source",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -1118,7 +1118,7 @@
 					"patching_rect" : [ 713.672457825935339, 190.627874993873604, 209.0, 23.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 84.331237999999999, 501.666626000000008, 658.956237999999985, 23.0 ],
-					"text" : "signal",
+					"text" : "No Source",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -1145,7 +1145,7 @@
 					"patching_rect" : [ 485.672474980354309, 188.29454185922242, 209.0, 23.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 84.331237999999999, 476.666626000000008, 658.956237999999985, 23.0 ],
-					"text" : "signal",
+					"text" : "No Source",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -1165,15 +1165,14 @@
 					"gradient" : 1,
 					"hint" : "Status of the connection with Grasshopper",
 					"id" : "obj-6",
-					"linecount" : 3,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 252.992881558013892, 185.961208605361946, 209.0, 53.0 ],
+					"patching_rect" : [ 252.992881558013892, 185.961208605361946, 209.0, 23.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 84.331237999999999, 451.666626000000008, 658.956237999999985, 23.0 ],
-					"text" : "\"C:/Program Files/Esquissons/resources/Snd/Parc.wav\"",
+					"text" : "No Source",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -1193,15 +1192,14 @@
 					"gradient" : 1,
 					"hint" : "Status of the connection with Grasshopper",
 					"id" : "obj-4",
-					"linecount" : 3,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ -14.660869430389383, 189.961208605361946, 209.0, 53.0 ],
+					"patching_rect" : [ -14.660869430389383, 189.961208605361946, 209.0, 23.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 84.331237999999999, 426.666626000000008, 658.956237999999985, 23.0 ],
-					"text" : "\"C:/Program Files/Esquissons/resources/Snd/Street.wav\"",
+					"text" : "No Source",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -3340,70 +3338,138 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-16::obj-307" : [ "Source Volume[14]", "Source Volume", 0 ],
-			"obj-17::obj-307" : [ "Source Volume[1]", "Source Volume", 0 ],
-			"obj-18::obj-307" : [ "Source Volume[2]", "Source Volume", 0 ],
-			"obj-99" : [ "Volume[3]", "Volume", 0 ],
+			"obj-36::obj-302" : [ "Left Level[7]", "L Level", 0 ],
+			"obj-17::obj-303" : [ "Right level[1]", "R Level", 0 ],
+			"obj-73" : [ "Volume[2]", "Volume", 0 ],
+			"obj-20::obj-303" : [ "Right level[3]", "R Level", 0 ],
 			"obj-24::obj-302" : [ "Left Level[14]", "L Level", 0 ],
-			"obj-34::obj-307" : [ "Source Volume[5]", "Source Volume", 0 ],
-			"obj-35::obj-307" : [ "Source Volume[6]", "Source Volume", 0 ],
-			"obj-16::obj-302" : [ "Left Level[13]", "L Level", 0 ],
-			"obj-37::obj-307" : [ "Source Volume[8]", "Source Volume", 0 ],
+			"obj-34::obj-302" : [ "Left Level[5]", "L Level", 0 ],
+			"obj-16::obj-303" : [ "Right level[14]", "R Level", 0 ],
+			"obj-291" : [ "Volume[10]", "Volume", 0 ],
+			"obj-36::obj-303" : [ "Right level[5]", "R Level", 0 ],
+			"obj-99" : [ "Volume[3]", "Volume", 0 ],
+			"obj-37::obj-302" : [ "Left Level[8]", "L Level", 0 ],
+			"obj-203" : [ "Volume[7]", "Volume", 0 ],
+			"obj-18::obj-302" : [ "Left Level[2]", "L Level", 0 ],
+			"obj-24::obj-307" : [ "Source Volume[4]", "Source Volume", 0 ],
+			"obj-263" : [ "Volume[9]", "Volume", 0 ],
+			"obj-31::obj-303" : [ "Right level[16]", "R Level", 0 ],
 			"obj-126" : [ "Volume[4]", "Volume", 0 ],
+			"obj-35::obj-307" : [ "Source Volume[6]", "Source Volume", 0 ],
+			"obj-37::obj-303" : [ "Right level[6]", "R Level", 0 ],
+			"obj-17::obj-307" : [ "Source Volume[1]", "Source Volume", 0 ],
+			"obj-231" : [ "Volume[8]", "Volume", 0 ],
+			"obj-20::obj-307" : [ "Source Volume[3]", "Source Volume", 0 ],
+			"obj-151" : [ "Volume[5]", "Volume", 0 ],
+			"obj-31::obj-302" : [ "Left Level[4]", "L Level", 0 ],
+			"obj-34::obj-307" : [ "Source Volume[5]", "Source Volume", 0 ],
+			"obj-36::obj-307" : [ "Source Volume[7]", "Source Volume", 0 ],
+			"obj-21" : [ "Volume", "Volume", 0 ],
+			"obj-19" : [ "GAIN", "GAIN", 0 ],
+			"obj-17::obj-302" : [ "Left Level[1]", "L Level", 0 ],
+			"obj-16::obj-302" : [ "Left Level[13]", "L Level", 0 ],
+			"obj-18::obj-307" : [ "Source Volume[2]", "Source Volume", 0 ],
+			"obj-24::obj-303" : [ "Right level[15]", "R Level", 0 ],
+			"obj-34::obj-303" : [ "Right level[17]", "R Level", 0 ],
+			"obj-35::obj-302" : [ "Left Level[6]", "L Level", 0 ],
+			"obj-37::obj-307" : [ "Source Volume[8]", "Source Volume", 0 ],
 			"obj-18::obj-303" : [ "Right level[2]", "R Level", 0 ],
 			"obj-20::obj-302" : [ "Left Level[3]", "L Level", 0 ],
+			"obj-48" : [ "Volume[1]", "Volume", 0 ],
+			"obj-16::obj-307" : [ "Source Volume[14]", "Source Volume", 0 ],
 			"obj-31::obj-307" : [ "Source Volume[15]", "Source Volume", 0 ],
 			"obj-35::obj-303" : [ "Right level[4]", "R Level", 0 ],
-			"obj-151" : [ "Volume[5]", "Volume", 0 ],
-			"obj-36::obj-303" : [ "Right level[5]", "R Level", 0 ],
-			"obj-17::obj-302" : [ "Left Level[1]", "L Level", 0 ],
-			"obj-20::obj-307" : [ "Source Volume[3]", "Source Volume", 0 ],
-			"obj-24::obj-303" : [ "Right level[15]", "R Level", 0 ],
-			"obj-291" : [ "Volume[10]", "Volume", 0 ],
-			"obj-34::obj-302" : [ "Left Level[5]", "L Level", 0 ],
-			"obj-36::obj-307" : [ "Source Volume[7]", "Source Volume", 0 ],
-			"obj-203" : [ "Volume[7]", "Volume", 0 ],
-			"obj-37::obj-302" : [ "Left Level[8]", "L Level", 0 ],
-			"obj-18::obj-302" : [ "Left Level[2]", "L Level", 0 ],
-			"obj-263" : [ "Volume[9]", "Volume", 0 ],
-			"obj-16::obj-303" : [ "Right level[14]", "R Level", 0 ],
-			"obj-24::obj-307" : [ "Source Volume[4]", "Source Volume", 0 ],
-			"obj-31::obj-302" : [ "Left Level[4]", "L Level", 0 ],
-			"obj-35::obj-302" : [ "Left Level[6]", "L Level", 0 ],
-			"obj-48" : [ "Volume[1]", "Volume", 0 ],
-			"obj-37::obj-303" : [ "Right level[6]", "R Level", 0 ],
-			"obj-231" : [ "Volume[8]", "Volume", 0 ],
-			"obj-17::obj-303" : [ "Right level[1]", "R Level", 0 ],
-			"obj-20::obj-303" : [ "Right level[3]", "R Level", 0 ],
-			"obj-31::obj-303" : [ "Right level[16]", "R Level", 0 ],
-			"obj-73" : [ "Volume[2]", "Volume", 0 ],
-			"obj-34::obj-303" : [ "Right level[17]", "R Level", 0 ],
-			"obj-19" : [ "GAIN", "GAIN", 0 ],
-			"obj-36::obj-302" : [ "Left Level[7]", "L Level", 0 ],
-			"obj-21" : [ "Volume", "Volume", 0 ],
 			"parameterbanks" : 			{
 
 			}
 ,
 			"parameter_overrides" : 			{
-				"obj-17::obj-307" : 				{
-					"parameter_longname" : "Source Volume[1]"
+				"obj-36::obj-302" : 				{
+					"parameter_longname" : "Left Level[7]"
 				}
 ,
-				"obj-18::obj-307" : 				{
-					"parameter_longname" : "Source Volume[2]"
+				"obj-17::obj-303" : 				{
+					"parameter_longname" : "Right level[1]"
+				}
+,
+				"obj-20::obj-303" : 				{
+					"parameter_longname" : "Right level[3]"
 				}
 ,
 				"obj-24::obj-302" : 				{
 					"parameter_longname" : "Left Level[14]"
 				}
 ,
-				"obj-34::obj-307" : 				{
-					"parameter_longname" : "Source Volume[5]"
+				"obj-34::obj-302" : 				{
+					"parameter_longname" : "Left Level[5]"
+				}
+,
+				"obj-36::obj-303" : 				{
+					"parameter_longname" : "Right level[5]"
+				}
+,
+				"obj-37::obj-302" : 				{
+					"parameter_longname" : "Left Level[8]"
+				}
+,
+				"obj-18::obj-302" : 				{
+					"parameter_longname" : "Left Level[2]"
+				}
+,
+				"obj-24::obj-307" : 				{
+					"parameter_longname" : "Source Volume[4]"
+				}
+,
+				"obj-31::obj-303" : 				{
+					"parameter_longname" : "Right level[16]"
 				}
 ,
 				"obj-35::obj-307" : 				{
 					"parameter_longname" : "Source Volume[6]"
+				}
+,
+				"obj-37::obj-303" : 				{
+					"parameter_longname" : "Right level[6]"
+				}
+,
+				"obj-17::obj-307" : 				{
+					"parameter_longname" : "Source Volume[1]"
+				}
+,
+				"obj-20::obj-307" : 				{
+					"parameter_longname" : "Source Volume[3]"
+				}
+,
+				"obj-31::obj-302" : 				{
+					"parameter_longname" : "Left Level[4]"
+				}
+,
+				"obj-34::obj-307" : 				{
+					"parameter_longname" : "Source Volume[5]"
+				}
+,
+				"obj-36::obj-307" : 				{
+					"parameter_longname" : "Source Volume[7]"
+				}
+,
+				"obj-17::obj-302" : 				{
+					"parameter_longname" : "Left Level[1]"
+				}
+,
+				"obj-18::obj-307" : 				{
+					"parameter_longname" : "Source Volume[2]"
+				}
+,
+				"obj-24::obj-303" : 				{
+					"parameter_longname" : "Right level[15]"
+				}
+,
+				"obj-34::obj-303" : 				{
+					"parameter_longname" : "Right level[17]"
+				}
+,
+				"obj-35::obj-302" : 				{
+					"parameter_longname" : "Left Level[6]"
 				}
 ,
 				"obj-37::obj-307" : 				{
@@ -3425,74 +3491,6 @@
 				"obj-35::obj-303" : 				{
 					"parameter_longname" : "Right level[4]"
 				}
-,
-				"obj-36::obj-303" : 				{
-					"parameter_longname" : "Right level[5]"
-				}
-,
-				"obj-17::obj-302" : 				{
-					"parameter_longname" : "Left Level[1]"
-				}
-,
-				"obj-20::obj-307" : 				{
-					"parameter_longname" : "Source Volume[3]"
-				}
-,
-				"obj-24::obj-303" : 				{
-					"parameter_longname" : "Right level[15]"
-				}
-,
-				"obj-34::obj-302" : 				{
-					"parameter_longname" : "Left Level[5]"
-				}
-,
-				"obj-36::obj-307" : 				{
-					"parameter_longname" : "Source Volume[7]"
-				}
-,
-				"obj-37::obj-302" : 				{
-					"parameter_longname" : "Left Level[8]"
-				}
-,
-				"obj-18::obj-302" : 				{
-					"parameter_longname" : "Left Level[2]"
-				}
-,
-				"obj-24::obj-307" : 				{
-					"parameter_longname" : "Source Volume[4]"
-				}
-,
-				"obj-31::obj-302" : 				{
-					"parameter_longname" : "Left Level[4]"
-				}
-,
-				"obj-35::obj-302" : 				{
-					"parameter_longname" : "Left Level[6]"
-				}
-,
-				"obj-37::obj-303" : 				{
-					"parameter_longname" : "Right level[6]"
-				}
-,
-				"obj-17::obj-303" : 				{
-					"parameter_longname" : "Right level[1]"
-				}
-,
-				"obj-20::obj-303" : 				{
-					"parameter_longname" : "Right level[3]"
-				}
-,
-				"obj-31::obj-303" : 				{
-					"parameter_longname" : "Right level[16]"
-				}
-,
-				"obj-34::obj-303" : 				{
-					"parameter_longname" : "Right level[17]"
-				}
-,
-				"obj-36::obj-302" : 				{
-					"parameter_longname" : "Left Level[7]"
-				}
 
 			}
 
@@ -3500,21 +3498,21 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "source_processor.maxpat",
-				"bootpath" : "~/Downloads/Esquissons_Beta 2.0/Esquissons/Esquissons/patchers",
+				"bootpath" : "~/Downloads/Esquissons_Beta 2.0/Esquissons/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "pan2.maxpat",
-				"bootpath" : "~/Downloads/Esquissons_Beta 2.0/Esquissons/Esquissons/patchers",
+				"bootpath" : "~/Downloads/Esquissons_Beta 2.0/Esquissons/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "newverb~.maxpat",
-				"bootpath" : "~/Downloads/Esquissons_Beta 2.0/Esquissons/Esquissons/patchers",
+				"bootpath" : "~/Downloads/Esquissons_Beta 2.0/Esquissons/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
